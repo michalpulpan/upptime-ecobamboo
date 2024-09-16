@@ -4,9 +4,9 @@ repo: upptime-ecobamboo  # The name of this repository
 
 sites:
   - name: CZ Homepage
-    url: https://ecobambo.cz
+    url: https://ecobamboo.cz
   - name: SK Homepage
-    url: https://ecobambo.sk
+    url: https://ecobamboo.sk
   - name: CZ Product page
     url: https://ecobamboo.cz/produkt/07014P-W/ecobamboo-podprsenka-s-vycpavkami-damske
   - name: CZ Category
