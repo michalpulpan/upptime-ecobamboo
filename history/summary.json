@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ecobamboo.cz.ico",
     "slug": "cz-homepage",
     "status": "up",
-    "uptime": "4.91%",
-    "uptimeDay": "4.91%",
-    "uptimeWeek": "4.91%",
-    "uptimeMonth": "4.91%",
-    "uptimeYear": "4.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 891,
     "timeDay": 891,
     "timeWeek": 891,
     "timeMonth": 891,
     "timeYear": 891,
-    "dailyMinutesDown": {
-      "2024-09-16": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SK Homepage",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ecobamboo.sk.ico",
     "slug": "sk-homepage",
     "status": "up",
-    "uptime": "1.99%",
-    "uptimeDay": "1.99%",
-    "uptimeWeek": "1.99%",
-    "uptimeMonth": "1.99%",
-    "uptimeYear": "1.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 5472,
     "timeDay": 5472,
     "timeWeek": 5472,
     "timeMonth": 5472,
     "timeYear": 5472,
-    "dailyMinutesDown": {
-      "2024-09-16": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CZ Product page",
