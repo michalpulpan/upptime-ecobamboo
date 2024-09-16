@@ -18,7 +18,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime-ecobamboo
   theme: dark,
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/michalpulpan/upptime-ecobamboo/master/static/img/icon.svg
   name: EcoBamboo status
   introTitle: "**EcoBamboo** status monitoring page"
   introMessage: This is a status page which uses **real-time** data from EcoBamboo
