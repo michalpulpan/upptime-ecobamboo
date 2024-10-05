@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ecobamboo.cz.ico",
     "slug": "cz-product-page",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 907,
     "timeDay": 561,
     "timeWeek": 740,
     "timeMonth": 907,
     "timeYear": 907,
     "dailyMinutesDown": {
-      "2024-10-05": 0
+      "2024-10-05": 5
     }
   },
   {
@@ -60,17 +60,19 @@
     "url": "https://ecobamboo.cz/kategorie/4/zeny/kalhotky",
     "icon": "https://icons.duckduckgo.com/ip3/ecobamboo.cz.ico",
     "slug": "cz-category",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 250,
-    "timeDay": 206,
-    "timeWeek": 252,
-    "timeMonth": 250,
-    "timeYear": 250,
-    "dailyMinutesDown": {}
+    "time": 245,
+    "timeDay": 167,
+    "timeWeek": 236,
+    "timeMonth": 245,
+    "timeYear": 245,
+    "dailyMinutesDown": {
+      "2024-10-05": 0
+    }
   }
 ]
