@@ -40,18 +40,20 @@
     "url": "https://ecobamboo.cz/produkt/07014P-W/ecobamboo-podprsenka-s-vycpavkami-damske",
     "icon": "https://icons.duckduckgo.com/ip3/ecobamboo.cz.ico",
     "slug": "cz-product-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 935,
-    "timeDay": 856,
-    "timeWeek": 807,
-    "timeMonth": 935,
-    "timeYear": 935,
-    "dailyMinutesDown": {}
+    "time": 907,
+    "timeDay": 561,
+    "timeWeek": 740,
+    "timeMonth": 907,
+    "timeYear": 907,
+    "dailyMinutesDown": {
+      "2024-10-05": 0
+    }
   },
   {
     "name": "CZ Category",
