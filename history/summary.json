@@ -40,19 +40,19 @@
     "url": "https://ecobamboo.cz/produkt/07014P-W/ecobamboo-podprsenka-s-vycpavkami-damske",
     "icon": "https://icons.duckduckgo.com/ip3/ecobamboo.cz.ico",
     "slug": "cz-product-page",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 907,
-    "timeDay": 561,
-    "timeWeek": 740,
-    "timeMonth": 907,
-    "timeYear": 907,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "95.61%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 928,
+    "timeDay": 849,
+    "timeWeek": 816,
+    "timeMonth": 928,
+    "timeYear": 928,
     "dailyMinutesDown": {
-      "2024-10-05": 5
+      "2024-10-05": 63
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://ecobamboo.cz/kategorie/4/zeny/kalhotky",
     "icon": "https://icons.duckduckgo.com/ip3/ecobamboo.cz.ico",
     "slug": "cz-category",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 245,
-    "timeDay": 167,
-    "timeWeek": 236,
-    "timeMonth": 245,
-    "timeYear": 245,
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "95.99%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
+    "time": 267,
+    "timeDay": 376,
+    "timeWeek": 298,
+    "timeMonth": 267,
+    "timeYear": 267,
     "dailyMinutesDown": {
-      "2024-10-05": 0
+      "2024-10-05": 58
     }
   }
 ]
