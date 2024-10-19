@@ -4,19 +4,19 @@
     "url": "https://ecobamboo.cz",
     "icon": "https://icons.duckduckgo.com/ip3/ecobamboo.cz.ico",
     "slug": "cz-homepage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1255,
-    "timeDay": 1708,
-    "timeWeek": 1626,
-    "timeMonth": 1309,
-    "timeYear": 1255,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1275,
+    "timeDay": 1820,
+    "timeWeek": 1664,
+    "timeMonth": 1330,
+    "timeYear": 1275,
     "dailyMinutesDown": {
-      "2024-10-19": 1
+      "2024-10-19": 5
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://ecobamboo.sk",
     "icon": "https://icons.duckduckgo.com/ip3/ecobamboo.sk.ico",
     "slug": "sk-homepage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2163,
-    "timeDay": 1716,
-    "timeWeek": 2431,
-    "timeMonth": 1968,
-    "timeYear": 2163,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 2161,
+    "timeDay": 1901,
+    "timeWeek": 2397,
+    "timeMonth": 1971,
+    "timeYear": 2161,
     "dailyMinutesDown": {
-      "2024-10-19": 0
+      "2024-10-19": 5
     }
   },
   {
