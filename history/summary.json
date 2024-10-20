@@ -4,45 +4,49 @@
     "url": "https://ecobamboo.cz",
     "icon": "https://icons.duckduckgo.com/ip3/ecobamboo.cz.ico",
     "slug": "cz-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1281,
-    "timeDay": 1849,
+    "timeDay": 1506,
     "timeWeek": 1687,
     "timeMonth": 1348,
     "timeYear": 1281,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-20": 0
+    }
   },
   {
     "name": "SK Homepage",
     "url": "https://ecobamboo.sk",
     "icon": "https://icons.duckduckgo.com/ip3/ecobamboo.sk.ico",
     "slug": "sk-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2151,
-    "timeDay": 1924,
+    "timeDay": 1762,
     "timeWeek": 2421,
     "timeMonth": 2002,
     "timeYear": 2151,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-20": 0
+    }
   },
   {
     "name": "CZ Product page",
     "url": "https://ecobamboo.cz/produkt/07014P-W/ecobamboo-podprsenka-s-vycpavkami-damske",
     "icon": "https://icons.duckduckgo.com/ip3/ecobamboo.cz.ico",
     "slug": "cz-product-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.82%",
@@ -52,6 +56,7 @@
     "timeMonth": 1306,
     "timeYear": 1230,
     "dailyMinutesDown": {
+      "2024-10-20": 0,
       "2024-10-15": 25,
       "2024-10-05": 63
     }
@@ -61,7 +66,7 @@
     "url": "https://ecobamboo.cz/kategorie/4/zeny/kalhotky",
     "icon": "https://icons.duckduckgo.com/ip3/ecobamboo.cz.ico",
     "slug": "cz-category",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
@@ -73,6 +78,7 @@
     "timeMonth": 336,
     "timeYear": 321,
     "dailyMinutesDown": {
+      "2024-10-20": 0,
       "2024-10-15": 25,
       "2024-10-05": 58
     }
