@@ -22,10 +22,10 @@
     "url": "https://ecobamboo.sk",
     "icon": "https://icons.duckduckgo.com/ip3/ecobamboo.sk.ico",
     "slug": "sk-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2090,
@@ -33,7 +33,9 @@
     "timeWeek": 1655,
     "timeMonth": 2043,
     "timeYear": 2090,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-24": 1
+    }
   },
   {
     "name": "CZ Product page",
@@ -41,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ecobamboo.cz.ico",
     "slug": "cz-product-page",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "98.40%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.75%",
-    "uptimeYear": "99.79%",
+    "uptimeYear": "99.80%",
     "time": 1345,
     "timeDay": 2299,
     "timeWeek": 2314,
