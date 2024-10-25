@@ -4,10 +4,10 @@
     "url": "https://ecobamboo.cz",
     "icon": "https://icons.duckduckgo.com/ip3/ecobamboo.cz.ico",
     "slug": "cz-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1313,
@@ -15,7 +15,9 @@
     "timeWeek": 1589,
     "timeMonth": 1419,
     "timeYear": 1313,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-25": 1
+    }
   },
   {
     "name": "SK Homepage",
