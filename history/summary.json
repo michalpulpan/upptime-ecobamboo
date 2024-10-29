@@ -4,9 +4,9 @@
     "url": "https://ecobamboo.cz",
     "icon": "https://icons.duckduckgo.com/ip3/ecobamboo.cz.ico",
     "slug": "cz-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 1481,
     "timeYear": 1358,
     "dailyMinutesDown": {
+      "2024-10-29": 0,
       "2024-10-25": 18
     }
   },
@@ -68,11 +69,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ecobamboo.cz.ico",
     "slug": "cz-category",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "99.86%",
+    "uptimeYear": "99.87%",
     "time": 402,
     "timeDay": 636,
     "timeWeek": 705,
