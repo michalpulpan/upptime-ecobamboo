@@ -4,9 +4,9 @@
     "url": "https://ecobamboo.cz",
     "icon": "https://icons.duckduckgo.com/ip3/ecobamboo.cz.ico",
     "slug": "cz-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 1537,
     "timeYear": 1399,
     "dailyMinutesDown": {
+      "2024-10-31": 0,
       "2024-10-25": 18
     }
   },
